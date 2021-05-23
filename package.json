@@ -22,7 +22,10 @@
     "@babel/preset-env": "^7.14.2",
     "@babel/register": "^7.13.16",
     "chai": "^4.3.4",
-    "mocha": "^8.4.0"
+    "mocha": "^8.4.0",
+    "supertest": "^6.1.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
